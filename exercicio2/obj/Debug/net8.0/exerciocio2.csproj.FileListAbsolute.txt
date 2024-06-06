@@ -1,0 +1,14 @@
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\bin\Debug\net8.0\exerciocio2.exe
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\bin\Debug\net8.0\exerciocio2.deps.json
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\bin\Debug\net8.0\exerciocio2.runtimeconfig.json
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\bin\Debug\net8.0\exerciocio2.dll
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\bin\Debug\net8.0\exerciocio2.pdb
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\obj\Debug\net8.0\exerciocio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\obj\Debug\net8.0\exerciocio2.AssemblyInfoInputs.cache
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\obj\Debug\net8.0\exerciocio2.AssemblyInfo.cs
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\obj\Debug\net8.0\exerciocio2.csproj.CoreCompileInputs.cache
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\obj\Debug\net8.0\exerciocio2.dll
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\obj\Debug\net8.0\refint\exerciocio2.dll
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\obj\Debug\net8.0\exerciocio2.pdb
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\obj\Debug\net8.0\exerciocio2.genruntimeconfig.cache
+C:\Users\yan.mrodrigues\source\repos\Teste\C#\Exercicios\exerciocio2\obj\Debug\net8.0\ref\exerciocio2.dll

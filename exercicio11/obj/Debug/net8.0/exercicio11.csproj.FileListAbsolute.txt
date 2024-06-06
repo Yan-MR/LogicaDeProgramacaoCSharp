@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\obj\Debug\net8.0\exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\obj\Debug\net8.0\exercicio11.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\obj\Debug\net8.0\exercicio11.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\obj\Debug\net8.0\exercicio11.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\bin\Debug\net8.0\exercicio11.exe
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\bin\Debug\net8.0\exercicio11.deps.json
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\bin\Debug\net8.0\exercicio11.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\bin\Debug\net8.0\exercicio11.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\bin\Debug\net8.0\exercicio11.pdb
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\obj\Debug\net8.0\exercicio11.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\obj\Debug\net8.0\refint\exercicio11.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\obj\Debug\net8.0\exercicio11.pdb
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\obj\Debug\net8.0\exercicio11.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio11\obj\Debug\net8.0\ref\exercicio11.dll

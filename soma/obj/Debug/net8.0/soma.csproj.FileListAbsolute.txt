@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\obj\Debug\net8.0\soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\obj\Debug\net8.0\soma.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\obj\Debug\net8.0\soma.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\obj\Debug\net8.0\soma.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\bin\Debug\net8.0\soma.exe
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\bin\Debug\net8.0\soma.deps.json
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\bin\Debug\net8.0\soma.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\bin\Debug\net8.0\soma.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\bin\Debug\net8.0\soma.pdb
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\obj\Debug\net8.0\soma.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\obj\Debug\net8.0\refint\soma.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\obj\Debug\net8.0\soma.pdb
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\obj\Debug\net8.0\soma.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\soma\obj\Debug\net8.0\ref\soma.dll

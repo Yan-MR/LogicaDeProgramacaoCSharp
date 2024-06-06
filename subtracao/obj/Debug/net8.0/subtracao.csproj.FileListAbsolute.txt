@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\bin\Debug\net8.0\subtracao.exe
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\bin\Debug\net8.0\subtracao.deps.json
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\bin\Debug\net8.0\subtracao.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\bin\Debug\net8.0\subtracao.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\bin\Debug\net8.0\subtracao.pdb
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\obj\Debug\net8.0\subtracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\obj\Debug\net8.0\subtracao.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\obj\Debug\net8.0\subtracao.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\obj\Debug\net8.0\subtracao.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\obj\Debug\net8.0\subtracao.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\obj\Debug\net8.0\refint\subtracao.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\obj\Debug\net8.0\subtracao.pdb
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\obj\Debug\net8.0\subtracao.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\subtracao\obj\Debug\net8.0\ref\subtracao.dll

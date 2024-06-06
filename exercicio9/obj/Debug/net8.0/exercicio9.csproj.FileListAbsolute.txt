@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\bin\Debug\net8.0\exercicio9.exe
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\bin\Debug\net8.0\exercicio9.deps.json
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\bin\Debug\net8.0\exercicio9.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\bin\Debug\net8.0\exercicio9.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\bin\Debug\net8.0\exercicio9.pdb
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\obj\Debug\net8.0\exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\obj\Debug\net8.0\exercicio9.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\obj\Debug\net8.0\exercicio9.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\obj\Debug\net8.0\exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\obj\Debug\net8.0\exercicio9.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\obj\Debug\net8.0\refint\exercicio9.dll
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\obj\Debug\net8.0\exercicio9.pdb
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\obj\Debug\net8.0\exercicio9.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\Proa\Interfaces HTML-CSS\EQUIPE02\C Sharp\exercicio9\obj\Debug\net8.0\ref\exercicio9.dll
